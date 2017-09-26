@@ -1,1 +1,1 @@
-docker build -t resnet-demo .
+docker build -t resnet-demo-cpu .
